@@ -1,0 +1,5 @@
+{
+  "name": "Storyboard AI",
+  "description": "Upload a script to generate a sequence of storyboard images using Gemini.",
+  "requestFramePermissions": []
+}
